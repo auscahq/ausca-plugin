@@ -29,8 +29,8 @@ This extension discovers and prepares services. It does not include an x402 wall
 }
 ```
 
-For Claude Code, `claude mcp add --transport http ausca https://ausca.com/mcp` adds the same remote connection. The host manifests in `.claude-plugin/`, `.cursor-plugin/` and `.grok-plugin/` package it for marketplace review. Root `plugin.json` and the schema-valid Streamable HTTP `mcp.json` also support local Codex plugin installation. Reviewed ChatGPT/Codex directory submission still needs Ausca's public terms and support URLs; a public source repository does not itself mean a marketplace card is approved.
+For Claude Code, `claude mcp add --transport http ausca https://ausca.com/mcp` adds the same remote connection. The host manifests in `.claude-plugin/`, `.cursor-plugin/` and `.grok-plugin/` package it for marketplace review. Root `plugin.json` and the schema-valid Streamable HTTP `mcp.json` also support local Codex plugin installation. Ausca’s public terms and support URLs are live. A public source repository does not itself mean a reviewed ChatGPT/Codex marketplace card is approved.
 
-Read the [MCP guide](https://ausca.com/docs/mcp) and the [current service skills](https://ausca.com/skills/) for service limits, payment flow, lifecycle and artifact retention. [Privacy](https://ausca.com/privacy) and support at `hello@ausca.com` are available on the product site. The [source repository](https://github.com/auscahq/ausca) contains the underlying service contracts.
+Read the [MCP guide](https://ausca.com/docs/mcp) and the [current service skills](https://ausca.com/skills/) for service limits, payment flow, lifecycle and artifact retention. [Privacy](https://ausca.com/privacy), [terms](https://ausca.com/terms), and [support](https://ausca.com/support) are available on the product site; the support address is `hello@ausca.com`. The [source repository](https://github.com/auscahq/ausca) contains the underlying service contracts.
 
 This plugin package is [MIT licensed](LICENSE). The Ausca service and its source code are separate; this repository does not license either of them. The Ausca name and mark identify the service and remain its trademarks.
