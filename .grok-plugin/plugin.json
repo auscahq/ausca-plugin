@@ -1,6 +1,6 @@
 {
   "name": "ausca",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Discover Ausca pay-per-call agent services, inspect binding terms, and verify invocation results and receipts.",
   "author": {
     "name": "Ausca",
@@ -9,7 +9,7 @@
   },
   "repository": "https://github.com/auscahq/ausca-plugin",
   "homepage": "https://ausca.com",
-  "license": "Ausca Plugin Use License",
+  "license": "MIT",
   "keywords": [
     "ausca",
     "agent services",
