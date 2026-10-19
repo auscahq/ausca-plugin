@@ -21,4 +21,4 @@ For Claude Code, `claude mcp add --transport http ausca https://ausca.com/mcp` a
 
 Read the [MCP guide](https://ausca.com/docs/mcp) and the [current service skills](https://ausca.com/skills/) for service limits, payment flow, lifecycle and artifact retention. [Privacy](https://ausca.com/privacy) and support at `hello@ausca.com` are available on the product site. The [source repository](https://github.com/auscahq/ausca) contains the underlying service contracts.
 
-The files in this plugin have a [limited plugin-use license](LICENSE). That license covers installation and use of the plugin files; it does not change the license of Ausca's service or source code.
+This plugin package is [MIT licensed](LICENSE). The Ausca service and its source code are separate; this repository does not license either of them. The Ausca name and mark identify the service and remain its trademarks.
