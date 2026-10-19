@@ -1,6 +1,6 @@
 # Ausca
 
-<img src="assets/logo.png" alt="Ausca mark" width="96" />
+<img src="assets/marketplace-icon.svg" alt="Ausca mark" width="96" />
 
 Connect an agent client to [Ausca](https://ausca.com), a set of pay-per-call services for document OCR and analysis, media transcription, browser sessions and receive-only agent inboxes. This plugin packages the production MCP endpoint at `https://ausca.com/mcp`, one [service-selection skill](skills/ausca-service-selection/SKILL.md), and the current square mark. It does not include a wallet, payment signer, API key or local server.
 
