@@ -1,0 +1,11 @@
+{
+  "name": "ausca",
+  "version": "0.1.0",
+  "description": "Discover pay-per-call agent services, inspect binding terms and verify receipts with Ausca.",
+  "mcpServers": {
+    "ausca": {
+      "httpUrl": "https://ausca.com/mcp",
+      "description": "Metered agent services; paid calls require an x402-capable client"
+    }
+  }
+}
