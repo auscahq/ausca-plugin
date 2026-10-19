@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ausca": {
+      "type": "http",
+      "url": "https://ausca.com/mcp"
+    }
+  }
+}

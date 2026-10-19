@@ -1,0 +1,21 @@
+{
+  "name": "ausca",
+  "version": "0.1.0",
+  "description": "Discover Ausca pay-per-call agent services, inspect binding terms, and verify invocation results and receipts.",
+  "author": {
+    "name": "Ausca",
+    "email": "hello@ausca.com",
+    "url": "https://ausca.com"
+  },
+  "repository": "https://github.com/auscahq/ausca-plugin",
+  "homepage": "https://ausca.com",
+  "license": "Ausca Plugin Use License",
+  "keywords": [
+    "ausca",
+    "agent services",
+    "x402",
+    "document OCR",
+    "browser sessions",
+    "agent inboxes"
+  ]
+}
